@@ -26,7 +26,8 @@ int main()
     cout<<jay.car<<endl;
     cout<<jay.point<<endl;
 
-//The last declaration has priority
+//The last declaration has priority and all other values will be overwritten
+    // So, only the last value will be printed correctly.
 
 
 
